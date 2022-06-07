@@ -1,4 +1,4 @@
-# Adagrad-AI-
+# Image Similarity Detection -
 
 This is a notebook to get the similar image in a given dataset
 
